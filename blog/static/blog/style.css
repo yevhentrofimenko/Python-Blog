@@ -1,0 +1,12 @@
+.container a{
+   font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+a.navbar-brand{
+    color: black!important;
+    margin-top: -5px;
+}
+.main-conten{
+    padding-top: 40px;
+}
